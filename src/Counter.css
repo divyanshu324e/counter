@@ -1,0 +1,31 @@
+.counterContainer{
+    width: 80%;
+    border: 1px dashed rgb(251, 173, 5);
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgb(27, 170, 146);
+    border-radius: 10px;
+    height: 80vh;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+}
+
+.counterValue{
+    color: rgb(231, 255, 171);
+    text-align: center;
+    font-size: 64px;
+    line-height: 70px;
+    padding: 0px;
+    margin: 10px;
+}
+.counterButton{
+    font-size:25px;
+    border-radius: 5px;
+    border: 2px dashed rgb(205, 182, 55);
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    margin: auto;
+    margin-bottom: 4vh;
+}
